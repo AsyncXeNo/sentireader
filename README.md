@@ -1,0 +1,20 @@
+# Sentireader
+
+College project for **Text Sentimental Analysis**.  
+This repository contains the backend for the project.
+It also contains the jupyter notebook with all the steps for the final model creation.
+
+### Technologies (to be) Used
++ **Python**
++ **Pandas**
++ **Sklearn**
++ **Django**
++ **Pytorch**
+
+### Progress
+- [x] Set up logging
+- [x] Sentireader model
+- [x] Backend API
+
+### ToDo
+- Nothing
