@@ -4,7 +4,7 @@ College project for **Text Sentimental Analysis**.
 This repository contains the backend for the project.
 It also contains the jupyter notebook with all the steps for the final model creation.
 
-### Technologies (to be) Used
+### Technologies Used
 + **Python**
 + **Pandas**
 + **Sklearn**
