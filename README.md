@@ -18,3 +18,5 @@ It also contains the jupyter notebook with all the steps for the final model cre
 
 ### ToDo
 - Nothing
+
+Here is the [frontend](https://www.github.com/asyncxeno/sentireader-frontend).
